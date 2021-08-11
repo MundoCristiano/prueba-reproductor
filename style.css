@@ -8,7 +8,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 96vh;
+  min-height: 100vh;
   background: linear-gradient(135deg,black,rgb(39, 38, 38),black);
 }
 
