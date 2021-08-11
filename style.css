@@ -262,7 +262,7 @@ ul li.playing{
   color: violet;
 }
 
-@media (orientation: portrait) {
+@media (orientation: landscape) {
   #portrait {
     displlay: block;
     position: absolute;
